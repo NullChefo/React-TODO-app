@@ -13,10 +13,10 @@
       "reminder": true
     },
     {
-        "id": 3,
-        "text": "Dentist Appointment",
-        "day": "Jun 18th at 1:30pm",
-        "reminder": false
-      }
+      "id": 3,
+      "text": "Dentist Appointment",
+      "day": "Jun 18th at 1:30pm",
+      "reminder": false
+    }
   ]
 }
