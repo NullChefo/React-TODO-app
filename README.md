@@ -1,7 +1,9 @@
 # React-TODO-app
-TODO application in react
+TODO tracker application in react
 
+---
 
+## Usage
 
 ### Install dependencies
 
