@@ -29,6 +29,8 @@ npm run server
 npm run build
 ```
 
+--- 
+
 ### Images
 
 ![1](./img/1.png)
