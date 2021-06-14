@@ -31,7 +31,7 @@ Header.propTypes = {
 
 // Make prop to have type. We need to import PropTypes from 'prop-types'
 
-
+style={{paddingTop : 20, paddingBottom: 20}}
 
 // CSS in JS  h1  <h1 style = {headingStyle}> Hello </h1>
 // const headingStyle ={
